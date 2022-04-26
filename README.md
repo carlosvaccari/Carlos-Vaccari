@@ -6,4 +6,7 @@
 
 ✈️ I really like to travel, that`s why I prefer to work remotely
 
-<img src="https://user-images.githubusercontent.com/21092603/163074791-5429f7d2-b19a-4942-9c18-1b2d23947393.svg" width="20" height="20" /> You can find me [here](https://www.linkedin.com/in/carlos-vaccari-903a1173/)
+#### You can also find me here:
+
+<a href="https://www.linkedin.com/in/carlos-vaccari-903a1173/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://medium.com/@carlosvaccari"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
